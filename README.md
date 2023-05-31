@@ -20,3 +20,10 @@ Wrap-up and prep for presentation
 
 DAY 6: Thurs 1 June 2023
 Presentation
+
+
+The following Tableau Dashboards provide a visual representation of the data collected. Focused mainly on median house prices, but includes measures such as variance and STD of house prices in Perth. The data provdes an analysis based primarily price, and accessibility to Perth CBD.
+
+![image](https://github.com/Yehns/Perth_Housing/assets/118644844/25c04a3a-6e4e-416d-9a87-e4c3b03d2504)
+
+![image](https://github.com/Yehns/Perth_Housing/assets/118644844/b97f780a-2c9e-4494-8388-2a8776998938)

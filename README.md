@@ -21,6 +21,15 @@ Wrap-up and prep for presentation
 DAY 6: Thurs 1 June 2023
 Presentation
 
+EXAMINATION OF THE PERTH HOUSING MARKET:
+
+The purpose of this exercise was to pull out some interesting findings around the Perth housing market data.  The elements chosen for this exercise relate to visualisations of the data via maps, calculations which could be used for predictive analysis of the cost of housing in Perth, and some machine learning visualisation of a suburb.
+
+The data was extracted from Kaggle: based on the Perth housing market data https://www.kaggle.com/datasets/syuzai/perth-house-prices. 
+The data was good, with a few errors (NUL values 999 values for garages, which were replaced with zero's and NaN for build year being tweaked to address the issue). As these anomalies were very small, they had very little impact to the data.
+
+Technologies used: Python, Pandas, Tableau, Sklearn
+
 
 The following Tableau Dashboards provide a visual representation of the data collected. Focused mainly on median house prices, but includes measures such as variance and STD of house prices in Perth. The data provdes an analysis based primarily price, and accessibility to Perth CBD.
 

@@ -34,6 +34,8 @@ The data was good, with a few errors (NUL values 999 values for garages, which w
 
 Here the data was imported into a DataFrame (DF) and using looping, a new DF with relevant data per suburb was established. Using scaling, and running the data to test and train the model, linear regression outputs were established. This helped generate the inputs for a DataFrame with an "r2" score in it, highlighting predicted housing prices. This model could be used by Estate Agents and prospective house-buyers going forward.
 
+Version 3 of the model improves on the earlier models by breaking each suburb down into groups based on the land area for the property. This greatly improved the accuracy of the predictions. Further improvements will be needed to identify and handle outlying properties (ones that don't fit in with the rest of the suburb).
+
 **MAPPING OF DATA WITH KEY INFORMATION**
 
 The following Tableau Dashboards provide a visual representation of the data collected. Focused mainly on median house prices, but includes measures such as variance and STD of house prices in Perth. The data provdes an analysis based primarily price, and accessibility to Perth CBD.
